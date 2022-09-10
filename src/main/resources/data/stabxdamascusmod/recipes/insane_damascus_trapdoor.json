@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "stabxdamascusmod:insane_damascus_block"
+    }
+  },
+  "result": {
+    "item": "stabxdamascusmod:insane_damascus_trapdoor",
+    "count": 6
+  }
+}

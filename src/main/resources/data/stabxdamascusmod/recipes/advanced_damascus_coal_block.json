@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "stabxdamascusmod:advanced_damascus_coal"
+    }
+  },
+  "result": {
+    "item": "stabxdamascusmod:advanced_damascus_coal_block"
+  }
+}

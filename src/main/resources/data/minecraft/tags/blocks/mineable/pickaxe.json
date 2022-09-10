@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "stabxdamascusmod:advanced_damascus_ore",
+    "stabxdamascusmod:deepslate_advanced_damascus_ore",
+    "stabxdamascusmod:insane_damascus_block",
+    "stabxdamascusmod:crazy_speedy_gonzales_block",
+    "stabxdamascusmod:advanced_damascus_coal_block",
+    "stabxdamascusmod:insane_damascus_button",
+    "stabxdamascusmod:insane_damascus_trapdoor",
+    "stabxdamascusmod:insane_damascus_door",
+    "stabxdamascusmod:insane_damascus_slab",
+    "stabxdamascusmod:insane_damascus_wall",
+    "stabxdamascusmod:insane_damascus_stairs",
+    "stabxdamascusmod:insane_damascus_fence",
+    "stabxdamascusmod:insane_damascus_fence_gate",
+    "stabxdamascusmod:insane_damascus_pressure_plate",
+    "stabxdamascusmod:insane_damascus_slab"
+
+  ]
+}

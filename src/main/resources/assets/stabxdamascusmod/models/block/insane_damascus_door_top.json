@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "stabxdamascusmod:block/insane_damascus_door_top",
+    "bottom": "stabxdamascusmod:block/insane_damascus_door_bottom"
+  }
+}

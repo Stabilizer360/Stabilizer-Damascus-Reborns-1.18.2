@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "stabxdamascusmod:block/insane_damascus_block"
+  }
+}

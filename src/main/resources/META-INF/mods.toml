@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="stabxdamascusmod"
+version="1.4"
+displayName="Stabilizer Damascus Reborn"
+logoFile="examplemod.png"
+credits="Stabilizer Gaming Studio"
+authors="Stabilizer King Ultimate Dynasty"
+description='''
+This Mod Made adds Damascus Armor and tools which is way more Better than Netherite!
+'''
+[[dependencies.stabxdamascusmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.stabxdamascusmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "stabxdamascusmod:damascus_ingot"
+    }
+  },
+  "result": {
+    "item": "stabxdamascusmod:insane_damascus_door",
+    "count": 6
+  }
+}

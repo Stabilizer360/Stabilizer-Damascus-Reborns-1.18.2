@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "stabxdamascusmod:damascus_sword"
+    },
+    "title": "You are the chosen one!",
+    "description": "Upgrade to Damascus sword",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "stabxdamascusmod:stabx_damascus_mod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "stabxdamascusmod:damascus_sword"
+          }
+        ]
+      }
+    }
+  }
+}

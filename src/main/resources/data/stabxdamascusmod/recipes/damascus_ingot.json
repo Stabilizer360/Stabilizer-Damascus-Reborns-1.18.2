@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "TST",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "stabxdamascusmod:broken_damascus_ingot"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "T": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "stabxdamascusmod:damascus_ingot"
+  }
+}

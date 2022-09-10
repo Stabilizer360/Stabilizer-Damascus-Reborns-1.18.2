@@ -1,0 +1,45 @@
+{
+  "item.stabxdamascusmod.damascus_ingot": "Damascus Ingot",
+  "item.stabxdamascusmod.broken_damascus_ingot": "Just A Broken Damascus Ingot",
+  "item.stabxdamascusmod.banana": "Banana Jackson",
+  "item.stabxdamascusmod.portable_blow_torch": "Portable Blow Torch",
+  "item.stabxdamascusmod.advanced_damascus_coal": "Advanced Damascus Coal",
+
+  "item.stabxdamascusmod.damascus_sword": "Most PowerFull Damascus Sharpest Sword",
+  "item.stabxdamascusmod.damascus_pickaxe": "Damascus Mining Pickaxe",
+  "item.stabxdamascusmod.damascus_shovel": "Damascus Shovel Jackson",
+  "item.stabxdamascusmod.damascus_hoe": "Damascus Hoe Farming",
+  "item.stabxdamascusmod.damascus_axe": "Damascus But Super Heavy OP Axe Ever",
+
+
+  "item.stabxdamascusmod.insane_damascus_super_boots": "Insane Super Damascus Boots",
+  "item.stabxdamascusmod.insane_damascus_super_leggings": "Insane Super Damascus Leggings  ",
+  "item.stabxdamascusmod.insane_damascus_super_chestplate": "Insane Super Damascus Chestplate",
+  "item.stabxdamascusmod.insane_damascus_super_helmet": "Insane Super Damascus Helmet",
+
+  "block.stabxdamascusmod.advanced_damascus_ore": "Advanced Damascus Ore",
+  "block.stabxdamascusmod.deepslate_advanced_damascus_ore": "Deepslate Advanced Damascus Ore but it is strong",
+  "block.stabxdamascusmod.insane_damascus_block": "Insane Damascus Block",
+  "block.stabxdamascusmod.crazy_speedy_gonzales_block": "Crazier Speedy Gonzales Blockie boy",
+  "block.stabxdamascusmod.advanced_damascus_coal_block": "Advanced Damascus Coal Block",
+
+  "block.stabxdamascusmod.insane_damascus_fence": "Insane Damascus Fence Guy",
+  "block.stabxdamascusmod.insane_damascus_fence_gate": "Insane Damascus Fence Gate",
+  "block.stabxdamascusmod.insane_damascus_wall": "Insane Damascus Wall but its not cringey",
+  "block.stabxdamascusmod.insane_damascus_slab": "Insane Damascus Slab",
+  "block.stabxdamascusmod.insane_damascus_stairs": "Insane Damascus Stairs",
+
+  "block.stabxdamascusmod.insane_damascus_door": "Insane Damascus Door Stuck Guy",
+  "block.stabxdamascusmod.insane_damascus_trapdoor": "Insane Damascus Trapdoor",
+  "block.stabxdamascusmod.insane_damascus_pressure_plate": "Insane Damascus Pressure Plate",
+  "block.stabxdamascusmod.insane_damascus_button": "Insane Damascus Button",
+
+
+
+  "itemGroup.stabilizerDamascusRebornTab": "Stabilizer Damascus Reborn",
+
+  "tooltip.stabxdamascusmod.portableblowtorch_shift": "Hey! You! Hold \u00A7eSHIFT\u00A7r for more Information!",
+  "tooltip.stabxdamascusmod.portableblowtorch": "Click a Block and see if you can blow torch it into a different Item!",
+  "tooltip.block.stabxdamascusmod.insane_damascus_block": "So you think you can break this Easily? Break this Block and  We will see who is funny!",
+  "tooltip.block.stabxdamascusmod.crazy_speedy_gonzales_block":"OK this Try to Walk on it and See It will give you speed!"
+}

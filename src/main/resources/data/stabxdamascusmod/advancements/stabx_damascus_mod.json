@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "stabxdamascusmod:damascus_sharpest_sword"
+    },
+    "title": "Stabilizer Damascus Reborn",
+    "description": "You are the chosen One",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "stabxdamascusmod:textures/block/insane_damascus_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "stabxdamascusmod:damascus_sharpest_sword"
+          }
+        ]
+      }
+    }
+  }
+}
